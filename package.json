@@ -1,0 +1,23 @@
+{
+  "name": "typescriptcourse",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "compile": "TypeScriptCourse",
+    "start": "node/dist/index,ts"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavosouzaz/TypeScriptCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavosouzaz/TypeScriptCourse/issues"
+  },
+  "homepage": "https://github.com/gustavosouzaz/TypeScriptCourse#readme",
+  "description": ""
+}
