@@ -20,6 +20,10 @@
   "homepage": "https://github.com/gustavosouzaz/TypeScriptCourse#readme",
   "description": "",
   "devDependencies": {
+    "@types/express": "^5.0.1",
     "@types/node": "^22.15.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
