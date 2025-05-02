@@ -13,4 +13,4 @@ class Person {
     }
 }
 
-const pers = new Person();
+const pers = new Person(); 
