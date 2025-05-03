@@ -6,7 +6,7 @@
         "module": "NodeNext",
         "outDir": "dist",
         "lib": ["ES2024", "DOM"],
-        "strict": true
-
-    }
+        "strict": true, 
+    },
+   
 }

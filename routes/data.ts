@@ -23,7 +23,7 @@ export function getTodos() {
     return TODOS;
 }
 
-export function removeTodo(id: nuber) {
+export function removeTodo(id: number) {
     TODOS = TODOS.filter(t => t.id != id);
 }
 
